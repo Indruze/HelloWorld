@@ -1,0 +1,67 @@
+[{
+  "id": 1,
+  "category": {
+    "id": 1,
+    "name": "Cats"
+  },
+  "name": "Lion",
+  "tags": [{
+    "id": 1,
+    "name": "Jungle"
+  },
+  {
+    "id": 2,
+    "name": "Savana"
+  }],
+  "status": "available"
+},
+{
+  "id": 2,
+  "category": {
+    "id": 1,
+    "name": "Cats"
+  },
+"name": "Puma",
+"tags": [
+{
+"id": 1,
+"name": "Forest"
+},
+{
+"id": 2,
+"name": "Mountains"
+}
+],
+"status": "available"
+},
+{
+"id": 3,
+"category": {
+"id": 1,
+"name": "Cats"
+},
+"name": "Tiger",
+"tags": [
+{
+"id": 1,
+"name": "Jungle"
+}
+],
+"status": "available"
+},
+{
+"id": 4,
+"category": {
+"id": 2,
+"name": "Rabbits"
+},
+"name": "Rabbit",
+"tags": [
+{
+"id": 1,
+"name": "Forest"
+}
+],
+"status": "available"
+}
+]
